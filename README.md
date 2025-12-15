@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">📚 Interested in Human Ecology, Fisheries Science, Statistics, and Data Science<br>💻 Open Source enthusiast<br>🏄‍♂️ Surfer <br>🌱 Vegetarian</h5>
+<h5 align="left">📚 Interested in Human Ecology, Fisheries Science, and Statistics <br>💻 Open Source enthusiast<br>🏄‍♂️ Surfer <br>🌱 Vegetarian</h5>
 
 ###
 
