@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me</h4>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Language and tools</h2>
+<h2 align="left">Language and tools</h4>
 
 ###
 
@@ -23,28 +23,40 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 ###
 
-<h2 align="left">Social</h2>
+<h2 align="left">Social</h4>
 
 ###
 
-<div align="left">
+<div data-importer="socials" align="left">
+  <a/>
+  <a href="https://www.linkedin.com/in/alisson-dopona-128678212/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a/>
   <a href="mailto:alissondopona@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a/>
   <a href="https://bsky.app/profile/alissondopona.bsky.social" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg" width="52" height="40" alt="bluesky logo"  />
-  </a>
-  <a href="https://www.instagram.com/alissondopona/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://x.com/alissondopona" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg" width="52" height="40" alt="bluesky logo"  />
 </div>
 
 ###
+
+
+###
+
+
+
+
+
+
+
+
+
+
+
+
