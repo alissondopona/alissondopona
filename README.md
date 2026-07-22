@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Alisson and I'm a PhD Student in Ecology</p>
+<p align="left">My name is Alisson and I'm a PhD Student in Ecology working on small-scale fisheries through theoretical approaches in Human Ecology</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">📚 Interested in Human Ecology, Fisheries Science, and Statistics <br>💻 Open Source enthusiast<br>🏄‍♂️ Surfer <br>🌱 Vegetarian</h5>
+<h5 align="left">📊 Interested in statistics, ecological and fisheries data modeling, and data visualization <br>💻 Open Source enthusiast<br>🏄‍♂️ Surfer <br>🌱 Vegetarian</h5>
 
 ###
 
@@ -19,27 +19,26 @@
 ###
 
 <div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img align="center" alt="R" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="Tidyverse" height="40" width="40" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/tidyverse.svg">
+  <img align="center" alt="Markdown" height="40" width="40" src="https://raw.githubusercontent.com/dcurtis/markdown-mark/master/svg/markdown-mark.svg"> 
+  <img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
+  <img align="center" alt="GNU/Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="QIGs" height="40" width="40" src="https://qgis.org/styleguide/visual/qgis-icon32.svg">
+  <img align="center" alt="MySql" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
 ###
 
-<h2 align="left">Social</h4>
+<h2 align="left">Academic</h4>
 
 ###
 
 <div data-importer="socials" align="left">
   <a/>
-  <a href="https://www.linkedin.com/in/alisson-dopona-128678212/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <a/>
-  <a href="mailto:alissondopona@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <a/>
-  <a href="https://bsky.app/profile/alissondopona.bsky.social" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg" width="52" height="40" alt="bluesky logo"  />
+[<img align="left" width="22px" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg"/>](https://orcid.org/0000-0003-1026-925X)
+[<img align="left" width="22px" src="https://iconape.com/wp-content/files/da/64524/svg/google-scholar.svg"/>](https://scholar.google.com/citations?user=a5brMqYAAAAJ&hl=en)
+[<img align="left" width="22px" src="https://ppghp.unespar.edu.br/imagens/plataforma-lattes-logo.jpg/image_view_fullscreen"/>](http://lattes.cnpq.br/3876982170291807)
 </div>
 
 ###
