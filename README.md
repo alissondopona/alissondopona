@@ -34,12 +34,9 @@
 
 ###
 
-<div data-importer="socials" align="left">
-  <a/>
 [<img align="left" width="22px" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg"/>](https://orcid.org/0000-0003-1026-925X)
 [<img align="left" width="22px" src="https://iconape.com/wp-content/files/da/64524/svg/google-scholar.svg"/>](https://scholar.google.com/citations?user=a5brMqYAAAAJ&hl=en)
 [<img align="left" width="22px" src="https://ppghp.unespar.edu.br/imagens/plataforma-lattes-logo.jpg/image_view_fullscreen"/>](http://lattes.cnpq.br/3876982170291807)
-</div>
 
 ###
 
