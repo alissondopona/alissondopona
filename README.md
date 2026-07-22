@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">📊 Interested in Human Ecology, Ecological and Fisheries Data Modeling, and Data Visualization <br>💻 Open Source enthusiast<br>🏄‍♂️ Surfer <br>🌱 Vegetarian</h5>
+<h5 align="left">📊 Interested in Human Ecology, Ecological and Fisheries Data Modeling, and Data Visualization <br>💻 Open Source enthusiast<br>🏄‍♂️ Surfer <br>🌱 Vegetarian <br> 📚 Learning SQL </h5>
 
 ###
 
@@ -19,13 +19,12 @@
 ###
 
 <div data-importer="techs" align="left">
-  <img align="center" alt="R" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="Tidyverse" height="40" width="40" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/tidyverse.svg">
-  <img align="center" alt="Markdown" height="40" width="40" src="https://raw.githubusercontent.com/dcurtis/markdown-mark/master/svg/markdown-mark.svg"> 
-  <img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
-  <img align="center" alt="GNU/Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="QIGs" height="40" width="40" src="https://qgis.org/styleguide/visual/qgis-icon32.svg">
-  <img align="center" alt="MySql" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="R" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="Tidyverse" height="35" width="35" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/tidyverse.svg">
+  <img align="center" alt="git" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
+  <img align="center" alt="GNU/Linux" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="QIGs" height="35" width="35" src="https://qgis.org/styleguide/visual/qgis-icon32.svg">
+  <img align="center" alt="MySql" height="40" width="35"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
 ###
