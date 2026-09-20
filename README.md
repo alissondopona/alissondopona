@@ -21,6 +21,7 @@
 <div data-importer="techs" align="left">
   <img align="center" alt="R" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="Tidyverse" height="35" width="35" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/tidyverse.svg">
+  <img align="center" alt="MD" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
   <img align="center" alt="git" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
   <img align="center" alt="GNU/Linux" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="QIGs" height="35" width="35" src="https://qgis.org/styleguide/visual/qgis-icon32.svg">
