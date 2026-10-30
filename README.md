@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">📊 Interested in Spatio-Temporal Modelling of Ecological and Fisheries Data, Data Visualization, and Statistical Analysis. <br>💻 Open Source enthusiast<br>🏄‍♂️ Surfer <br>🌱 Vegetarian </h5>
+<h5 align="left">📊 Interested in Fisheries Data Management, Spatio-Temporal Data Analysis, Statistical Modeling, Geospatial Analysis, and Data Visualization. <br>💻 Open Source enthusiast<br>🏄‍♂️ Surfer <br>🌱 Vegetarian </h5>
 
 ###
 
