@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Alisson and I'm a PhD Student in Ecology working on small-scale fisheries through theoretical approaches in Human Ecology</p>
+<p align="left">My name is Alisson and I'm a Fisheries data analyst · R, SQL, QGIS · PhD candidate in Ecology (UFRN) </p>
 
 ###
 
@@ -27,9 +27,7 @@
   <img align="center" alt="Ubuntu" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
   <img align="center" alt="Debian" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
   <img align="center" alt="QIGs" height="35" width="35" src="https://qgis.org/styleguide/visual/qgis-icon32.svg">
-  <img align="center" alt="SQL" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img align="center" alt="MySQL" height="35" width="35" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="PostegreSQL" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />          
+  <img align="center" alt="SQL" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />         
 </div>
 
 ###
