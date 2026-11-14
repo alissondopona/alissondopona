@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">📊 Interested in Spatio-Temporal Modeling of Ecological and Fisheries Data, Statistical and Geospatial Analysis, and Data Visualization. <br>💻 Open Source enthusiast<br> 👨🏻‍💻 Currently learning SQL - visit my [studies](https://alissondopona.github.io/sql-studies/) <br> 🏄‍♂️ Surfer <br> 🌱 Vegetarian </h5>
+<h5 align="left">📊 Interested in Spatio-Temporal Modeling of Ecological and Fisheries Data, Statistical and Geospatial Analysis, and Data Visualization. <br>💻 Open Source enthusiast<br> 👨🏻‍💻 Currently learning SQL - visit my <a href="https://alissondopona.github.io/sql-studies/">studies</a> <br> 🏄‍♂️ Surfer <br> 🌱 Vegetarian </h5>
 
 ###
 
