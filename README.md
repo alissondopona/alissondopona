@@ -38,7 +38,7 @@
 
 [<img align="left" width="22px" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg"/>](https://orcid.org/0000-0003-1026-925X)
 [<img align="left" width="22px" src="https://iconape.com/wp-content/files/da/64524/svg/google-scholar.svg"/>](https://scholar.google.com/citations?user=a5brMqYAAAAJ&hl=en)
-[<img align="left" width="22px" src="http://siteadmin2.uem.br/ccr/arquivos-imagens/logo-plataforma-lattes-link.png/image_view_fullscreen"/>](http://lattes.cnpq.br/3876982170291807)
+[<img align="left" width="22px" src="https://github.com/alissondopona/rac-ipec-pmp/blob/main/Output/lattes.png"/>](https://busca-cv-lattes.cnpq.br/curriculo/3876982170291807)
 
 ###
 
