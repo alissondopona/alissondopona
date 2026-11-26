@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Alisson and I'm a Fisheries data analyst · R, SQL, QGIS · PhD candidate in Ecology (UFRN) </p>
+<p align="left">My name is Alisson and I'm a Fisheries Data Analyst | R · SQL · QGIS | PhD candidate in Ecology (UFRN) </p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">📊 Interested in Spatio-Temporal Modeling of Ecological and Fisheries Data, Statistical and Geospatial Analysis, and Data Visualization. <br>💻 Open Source enthusiast<br> 👨🏻‍💻 Currently learning SQL - visit my <a href="https://alissondopona.github.io/sql-studies/">studies</a> <br> 🏄‍♂️ Surfer <br> 🌱 Vegetarian </h5>
+<h5 align="left">📊 Interested in Spatio-Temporal Modeling of Ecological and Fisheries Data, Statistical and Geospatial Analysis, and Data Visualization. <br>💻 Open Source enthusiast <br> 👨🏻‍💻 Currently learning SQL - visit my <a href="https://alissondopona.github.io/sql-studies/">studies</a> <br> 🏄‍♂️ Surfer <br> 🌱 Vegetarian </h5>
 
 ###
 
@@ -27,7 +27,9 @@
   <img align="center" alt="Ubuntu" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
   <img align="center" alt="Debian" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
   <img align="center" alt="QIGs" height="35" width="35" src="https://qgis.org/styleguide/visual/qgis-icon32.svg">
-  <img align="center" alt="SQL" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />         
+  <img align="center" alt="SQL" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" alt="PostgreSQL" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img align="center" alt="MySQL" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
 ###
